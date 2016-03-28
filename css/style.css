@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0; padding:0;}
+img{ display:block; border:0;}
+ul,li{ list-style-type:none;}
+#top{ height:72px; background:#000;}
+#top .nr .logo { width:130px; height:72px; background:url(../images/logo_02.jpg) no-repeat; float:left;}
+#top .nr .menu{ width:416px; height:51px; background:url(../images/top-menu_05.jpg) no-repeat; float:left; margin-left:76px; margin-top:21px;}
+#top .nr .tel{ width:109px; height:51px; background:url(../images/toptup_07.jpg) no-repeat; float:right; margin-top:21px;}
+#banner{ height:595px; background:url(../images/banner_11.jpg) no-repeat center top;}
+#works_ds{ height:890px; background:#000;}
+#works_ds .nr ul{ background:url(../images/dsbt_13.jpg) no-repeat left 28px; height:500x; width:1034px; padding-top:83px;}
+#works_ds .nr ul li{ width:301px; height:170px; border:5px solid #fff; float:left; margin:0 33px 16px 0; background:#FFF}
+
+#works_jz{ height:690px; background:#fff;}
+#works_jz .nr ul{ background:url(../images/jztitle_29.jpg) no-repeat left 28px; height:580px; width:1034px; padding-top:83px; float:left;}
+#works_jz .nr ul li{ width:301px; height:170px; border:5px solid #ccc; float:left; margin:0 33px 16px 0; background:#ccc;}
+
+
+#about{ height:580px; background:#000; background:url(../images/about_17.jpg) no-repeat  center #000 ;}
+#foot{ height:44px; background:#333;}
+#foot .banquan{ margin:0 auto; margin-left:397px; margin-top:18px;}
+.nr{ width:1000px; margin:0 auto; overflow:hidden;}
+
